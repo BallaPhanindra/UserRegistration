@@ -13,4 +13,5 @@ namespace UserRegistration
 			return Regex.IsMatch(email, Regex_Email);
 		}
 	}
+
 }
