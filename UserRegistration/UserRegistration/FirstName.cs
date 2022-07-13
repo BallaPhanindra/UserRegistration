@@ -1,7 +1,6 @@
 using System;
 using System.Text.RegularExpressions;
 
-
 namespace UserRegistration
 {
     internal class FirstName
