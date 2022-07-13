@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿using System.Text.RegularExpressions;
+=======
+﻿using System;
+using System.Text.RegularExpressions;
+>>>>>>> master
 
 namespace UserRegistration
 {
