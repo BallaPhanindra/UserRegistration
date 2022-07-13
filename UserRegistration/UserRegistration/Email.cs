@@ -2,7 +2,7 @@
 
 namespace UserRegistration
 {
-	internal class Email
+	public class Email
 	{
 		// Email has 3 mandatory parts (abc, bl & co) and 2 optional(xyz & in) with precise @ and. positions
 		//E.g. abc.xyz@bl.co.in
